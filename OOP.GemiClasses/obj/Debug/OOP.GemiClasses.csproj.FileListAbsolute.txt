@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiClasses\bin\Debug\OOP.GemiClasses.dll
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiClasses\bin\Debug\OOP.GemiClasses.pdb
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiClasses\obj\Debug\OOP.GemiClasses.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiClasses\obj\Debug\OOP.GemiClasses.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiClasses\obj\Debug\OOP.GemiClasses.dll
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiClasses\obj\Debug\OOP.GemiClasses.pdb

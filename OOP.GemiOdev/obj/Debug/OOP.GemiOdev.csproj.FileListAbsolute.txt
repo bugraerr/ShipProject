@@ -1,0 +1,17 @@
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\bin\Debug\OOP.GemiOdev.exe.config
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\bin\Debug\OOP.GemiOdev.exe
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\bin\Debug\OOP.GemiOdev.pdb
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\obj\Debug\OOP.GemiOdev.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\obj\Debug\OOP.GemiOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\obj\Debug\OOP.GemiOdev.Form1.resources
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\obj\Debug\OOP.GemiOdev.GemiEkle.resources
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\obj\Debug\OOP.GemiOdev.Properties.Resources.resources
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\obj\Debug\OOP.GemiOdev.Rapor.resources
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\obj\Debug\OOP.GemiOdev.SeferDetay.resources
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\obj\Debug\OOP.GemiOdev.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\obj\Debug\OOP.GemiOdev.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\obj\Debug\OOP.GemiOdev.exe
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\obj\Debug\OOP.GemiOdev.pdb
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\bin\Debug\OOP.GemiClasses.dll
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\bin\Debug\OOP.GemiClasses.pdb
+C:\Users\Hp\source\repos\OOP.GemiOdev\OOP.GemiOdev\obj\Debug\OOP.GemiOdev.csproj.CopyComplete
