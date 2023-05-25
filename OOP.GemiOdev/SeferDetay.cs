@@ -79,7 +79,7 @@ namespace OOP.GemiOdev
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            //UPDATE
         }
 
         private void btnListele_Click(object sender, EventArgs e)
